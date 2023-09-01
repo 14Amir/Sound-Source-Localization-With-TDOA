@@ -1,2 +1,5 @@
 # Sound-Source-Localization-With-TDOA
-Design an algorithm to detect sound and find its location by 4 to 7 microphones with the TDOA method in MATLAB 
+Design an algorithm to detect sound and find its location by 4 to 7 microphones with the TDOA method in MATLAB   
+Locating the source of sound has been one of the most important challenges for humans in the past, and with the passage of time and the realization of its applications, it has become more important. Today, for example, online monitoring of conditions and error detection in mechanical systems, such as wind turbines and various mechanical sub-systems in machines, has increased the importance of this category.
+In this report, according to the needs assessment of Salamat Andishan Mumtaz Mad Company, the preliminary investigation of the issue of sound source location by multiple microphones, first of all, the basics and introductions of different sound source location methods are discussed. Then two important methods SRP1 and 2 TDOA are widely discussed and the easier method in implementation ie TDOA is fully simulated in MATLAB software and the results are discussed.
+* For more information contact me by my email "amirazad1380@gmail.com"
